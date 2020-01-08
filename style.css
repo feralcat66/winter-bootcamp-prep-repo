@@ -1,0 +1,36 @@
+*{margin: 0 auto;}
+
+h2 {
+    color: purple;
+    font-style: italic;
+}
+
+p {
+    color: salmon;
+}
+
+li {
+    list-style: georgian;
+}
+
+#special{
+    color: seagreen;
+
+}
+
+.cool{ 
+    color: slateblue;
+}
+body{ 
+    background: springgreen;
+    background-image: url("http://placekitten.com/200/300");
+}
+#squares { 
+    height: 100px;
+width: 100px;
+background-color: teal;}
+
+#lil-guy{font-size: 100%;}
+
+
+ #big{ color: yellow;}
